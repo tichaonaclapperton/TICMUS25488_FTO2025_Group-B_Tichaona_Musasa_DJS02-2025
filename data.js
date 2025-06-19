@@ -223,3 +223,708 @@ export const genres = [
     ],
   },
 ];
+
+export const seasons = [
+  {
+    id: "10716",
+    seasonDetails: [
+      {
+        title: "Season 1",
+        episodes: 10,
+      },
+      {
+        title: "Season 2",
+        episodes: 8,
+      },
+      {
+        title: "Season 3",
+        episodes: 9,
+      },
+      {
+        title: "Season 4",
+        episodes: 7,
+      },
+      {
+        title: "Season 5",
+        episodes: 10,
+      },
+      {
+        title: "Season 6",
+        episodes: 7,
+      },
+      {
+        title: "Season 7",
+        episodes: 6,
+      },
+      {
+        title: "Season 8",
+        episodes: 6,
+      },
+      {
+        title: "Season 9",
+        episodes: 9,
+      },
+      {
+        title: "Season 10",
+        episodes: 10,
+      },
+      {
+        title: "Season 11",
+        episodes: 10,
+      },
+      {
+        title: "Season 12",
+        episodes: 6,
+      },
+      {
+        title: "Season 13",
+        episodes: 10,
+      },
+      {
+        title: "Season 14",
+        episodes: 4,
+      },
+    ],
+  },
+  {
+    id: "5675",
+    seasonDetails: [
+      {
+        title: "Season 1",
+        episodes: 10,
+      },
+      {
+        title: "Season 2",
+        episodes: 10,
+      },
+      {
+        title: "Season 3",
+        episodes: 10,
+      },
+      {
+        title: "Season 4",
+        episodes: 10,
+      },
+      {
+        title: "Season 5",
+        episodes: 10,
+      },
+      {
+        title: "Season 6",
+        episodes: 10,
+      },
+      {
+        title: "Season 7",
+        episodes: 10,
+      },
+      {
+        title: "Season 8",
+        episodes: 10,
+      },
+      {
+        title: "Season 9",
+        episodes: 10,
+      },
+      {
+        title: "Season 10",
+        episodes: 10,
+      },
+      {
+        title: "Season 11",
+        episodes: 10,
+      },
+      {
+        title: "Season 12",
+        episodes: 10,
+      },
+    ],
+  },
+  {
+    id: "5279",
+    seasonDetails: [
+      {
+        title: "The Cold War",
+        episodes: 7,
+      },
+      {
+        title: "Prohibition",
+        episodes: 7,
+      },
+      {
+        title: "The Age of Jackson",
+        episodes: 7,
+      },
+      {
+        title: "The Space Race",
+        episodes: 4,
+      },
+      {
+        title: "American Revolution",
+        episodes: 7,
+      },
+      {
+        title: "National Parks",
+        episodes: 7,
+      },
+      {
+        title: "Civil Rights",
+        episodes: 7,
+      },
+      {
+        title: "Political Parties",
+        episodes: 7,
+      },
+      {
+        title: "The 1968 Chicago Protests",
+        episodes: 4,
+      },
+      {
+        title: "The Great Depression",
+        episodes: 7,
+      },
+      {
+        title: "J. Edgar Hoover's FBI",
+        episodes: 7,
+      },
+      {
+        title: "Sponsored | American Epidemics",
+        episodes: 2,
+      },
+      {
+        title: "Tulsa Race Massacre",
+        episodes: 7,
+      },
+      {
+        title: "The Bastard Brigade",
+        episodes: 7,
+      },
+      {
+        title: "Dutch Manhattan",
+        episodes: 7,
+      },
+      {
+        title: "The Triangle Shirtwaist Factory Fire",
+        episodes: 5,
+      },
+      {
+        title: "Kentucky Blood Feud",
+        episodes: 2,
+      },
+      {
+        title: "California Water Wars",
+        episodes: 6,
+      },
+      {
+        title: "What We Learned from the Spanish Flu",
+        episodes: 1,
+      },
+      {
+        title: "Rebellion in the Early Republic",
+        episodes: 7,
+      },
+      {
+        title: "The WWII Home Front",
+        episodes: 2,
+      },
+      {
+        title: "The Space Race",
+        episodes: 4,
+      },
+      {
+        title: "Stonewall",
+        episodes: 5,
+      },
+      {
+        title: "The Gilded Age",
+        episodes: 7,
+      },
+      {
+        title: "Political Parties",
+        episodes: 6,
+      },
+      {
+        title: "The Supreme Court",
+        episodes: 8,
+      },
+      {
+        title: "Coal Wars",
+        episodes: 5,
+      },
+      {
+        title: "Traditions, Crisis, and Unity",
+        episodes: 1,
+      },
+      {
+        title: "The Great Chicago Fire",
+        episodes: 4,
+      },
+      {
+        title: "America's Monuments",
+        episodes: 7,
+      },
+      {
+        title: "Bleeding Kansas",
+        episodes: 5,
+      },
+      {
+        title: "The Mystery of D.B. Cooper",
+        episodes: 1,
+      },
+      {
+        title: "Tulsa Race Massacre",
+        episodes: 5,
+      },
+      {
+        title: "Lost Colony of Roanoke",
+        episodes: 3,
+      },
+      {
+        title: "The Walker Affair",
+        episodes: 3,
+      },
+      {
+        title: "The Fight for the First U.S. Olympics",
+        episodes: 4,
+      },
+      {
+        title: "National Parks",
+        episodes: 6,
+      },
+      {
+        title: "Roaring Twenties",
+        episodes: 5,
+      },
+      {
+        title: "Traitors",
+        episodes: 5,
+      },
+      {
+        title: "Philippine-American War",
+        episodes: 5,
+      },
+      {
+        title: "Billy the Kid",
+        episodes: 4,
+      },
+      {
+        title: "The Plot to Steal Lincoln's Body",
+        episodes: 3,
+      },
+      {
+        title: "The Fight for Women's Suffrage",
+        episodes: 6,
+      },
+      {
+        title: "Lewis and Clark",
+        episodes: 4,
+      },
+      {
+        title: "The Great Mississippi Flood",
+        episodes: 4,
+      },
+      {
+        title: "The Age of Jackson",
+        episodes: 7,
+      },
+      {
+        title: "The Manson Murders",
+        episodes: 3,
+      },
+      {
+        title: "Civil War",
+        episodes: 8,
+      },
+      {
+        title: "The Walker Affair",
+        episodes: 3,
+      },
+      {
+        title: "The Age of Pirates",
+        episodes: 4,
+      },
+      {
+        title: "Yellow Fever Epidemic of 1793",
+        episodes: 1,
+      },
+    ],
+  },
+  {
+    id: "10539",
+    seasonDetails: [
+      {
+        title: "Season 1",
+        episodes: 8,
+      },
+      {
+        title: "Season 2",
+        episodes: 9,
+      },
+      {
+        title: "Season 3",
+        episodes: 9,
+      },
+    ],
+  },
+  {
+    id: "9177",
+    seasonDetails: [
+      {
+        title: "Season 1",
+        episodes: 10,
+      },
+      {
+        title: "Season 2",
+        episodes: 10,
+      },
+    ],
+  },
+  {
+    id: "6807",
+    seasonDetails: [
+      {
+        title: "From Commoner to Royalty",
+        episodes: 5,
+      },
+      {
+        title: "A Real Life 'Succession' Story",
+        episodes: 6,
+      },
+      {
+        title: "American Royalty",
+        episodes: 5,
+      },
+      {
+        title: "The Gettys",
+        episodes: 6,
+      },
+      {
+        title: "The House of Versace",
+        episodes: 5,
+      },
+      {
+        title: "Chappaquiddick",
+        episodes: 3,
+      },
+      {
+        title: "JFK Jr. and Carolyn Bessette",
+        episodes: 3,
+      },
+      {
+        title: "#FreeBritney",
+        episodes: 5,
+      },
+      {
+        title: "Diana to Meghan",
+        episodes: 5,
+      },
+      {
+        title: "Brooke and Aricia's Big Rich Year-End Special",
+        episodes: 1,
+      },
+      {
+        title: "Paris Hilton",
+        episodes: 5,
+      },
+      {
+        title: "The Kardashians",
+        episodes: 5,
+      },
+      {
+        title: "Oprah Presents Meghan and Harry",
+        episodes: 1,
+      },
+      {
+        title: "JFK & Jackie",
+        episodes: 4,
+      },
+      {
+        title: "American Royalty",
+        episodes: 5,
+      },
+      {
+        title: "The Making of Madonna",
+        episodes: 5,
+      },
+      {
+        title: "The Life & Loves of Elizabeth Taylor",
+        episodes: 5,
+      },
+      {
+        title: "Back to Bennifer",
+        episodes: 3,
+      },
+      {
+        title: "The Emancipation of Mariah Carey",
+        episodes: 5,
+      },
+      {
+        title: "A Real Life 'Succession' Story",
+        episodes: 5,
+      },
+      {
+        title: "Murder in the House of Gucci",
+        episodes: 4,
+      },
+      {
+        title: "Blonde. Billionaire. Boss",
+        episodes: 5,
+      },
+      {
+        title: "The Patty Hearst Story",
+        episodes: 5,
+      },
+      {
+        title: "Janet vs The HalfTime Show",
+        episodes: 3,
+      },
+      {
+        title: "The Kardashians",
+        episodes: 5,
+      },
+      {
+        title: "Marilyn",
+        episodes: 5,
+      },
+      {
+        title: "Saint Dolly",
+        episodes: 4,
+      },
+      {
+        title: "Still Standing",
+        episodes: 5,
+      },
+      {
+        title: "Back to Bennifer",
+        episodes: 2,
+      },
+      {
+        title: "Fresh Prince to Fallen King",
+        episodes: 6,
+      },
+      {
+        title: "JFK & Jackie",
+        episodes: 3,
+      },
+      {
+        title: "Rewriting The Story",
+        episodes: 5,
+      },
+      {
+        title: "In God We Lust",
+        episodes: 2,
+      },
+    ],
+  },
+  {
+    id: "8514",
+    seasonDetails: [
+      {
+        title: "Thai Cave Rescue",
+        episodes: 6,
+      },
+      {
+        title: "Kidnapped in the Desert",
+        episodes: 4,
+      },
+      {
+        title: "Prisoner of War",
+        episodes: 5,
+      },
+      {
+        title: "The Savage Mountain",
+        episodes: 5,
+      },
+      {
+        title: "Shipwreck on the Sahara",
+        episodes: 5,
+      },
+      {
+        title: "Surviving Antarctica",
+        episodes: 6,
+      },
+      {
+        title: "Plane Crash in the Andes",
+        episodes: 5,
+      },
+      {
+        title: "Chilean Mine Collapse",
+        episodes: 5,
+      },
+      {
+        title: "Rock Climbers Abducted",
+        episodes: 5,
+      },
+      {
+        title: "Disaster at Sea",
+        episodes: 5,
+      },
+      {
+        title: "Stranded in the Arctic",
+        episodes: 3,
+      },
+      {
+        title: "Kidnapped in the Desert",
+        episodes: 3,
+      },
+      {
+        title: "Avalanche at Tunnel Creek",
+        episodes: 2,
+      },
+      {
+        title: "Meltdown at Fukushima",
+        episodes: 5,
+      },
+      {
+        title: "Trapped on Mount Hood",
+        episodes: 6,
+      },
+      {
+        title: "Thai Cave Rescue",
+        episodes: 5,
+      },
+      {
+        title: "Crash in a Volcano",
+        episodes: 3,
+      },
+      {
+        title: "Wildfire in Paradise",
+        episodes: 6,
+      },
+      {
+        title: "The Race to Save Squalus",
+        episodes: 1,
+      },
+    ],
+  },
+  {
+    id: "10276",
+    seasonDetails: [
+      {
+        title: "Season 1",
+        episodes: 10,
+      },
+      {
+        title: "Season 2",
+        episodes: 10,
+      },
+      {
+        title: "Season 3",
+        episodes: 10,
+      },
+      {
+        title: "Season 4",
+        episodes: 10,
+      },
+      {
+        title: "Season 5",
+        episodes: 10,
+      },
+    ],
+  },
+  {
+    id: "8860",
+    seasonDetails: [
+      {
+        title: "The Litvinenko Affair",
+        episodes: 5,
+      },
+      {
+        title: "The Sexed Up Dossier",
+        episodes: 4,
+      },
+      {
+        title: "The Murdoch Phone Hacking",
+        episodes: 5,
+      },
+      {
+        title: "Breaking Barings",
+        episodes: 4,
+      },
+      {
+        title: "The Profumo Affair",
+        episodes: 6,
+      },
+      {
+        title: "The Canoe Con",
+        episodes: 4,
+      },
+      {
+        title: "Anarchy In The UK (Sex Pistols)",
+        episodes: 5,
+      },
+      {
+        title: "Lord Lucan",
+        episodes: 4,
+      },
+      {
+        title: "The Litvinenko Affair",
+        episodes: 5,
+      },
+      {
+        title: "The Coughing Major",
+        episodes: 4,
+      },
+      {
+        title: "Maxwell",
+        episodes: 5,
+      },
+      {
+        title: "Spy Cops",
+        episodes: 4,
+      },
+      {
+        title: "Archer",
+        episodes: 4,
+      },
+      {
+        title: "Hatton Garden",
+        episodes: 4,
+      },
+      {
+        title: "Hitler Diaries",
+        episodes: 4,
+      },
+      {
+        title: "Abdication",
+        episodes: 4,
+      },
+      {
+        title: "The Spy Who Came Back From The Dead",
+        episodes: 4,
+      },
+      {
+        title: "The Queen of Clean",
+        episodes: 4,
+      },
+      {
+        title: "Boris Johnson",
+        episodes: 3,
+      },
+    ],
+  },
+  {
+    id: "5629",
+    seasonDetails: [
+      {
+        title: "Rise of the Modern World",
+        episodes: 10,
+      },
+      {
+        title: "The Later Middle Ages",
+        episodes: 10,
+      },
+      {
+        title: "Early Modern Explosion",
+        episodes: 10,
+      },
+      {
+        title: "Prehistory",
+        episodes: 10,
+      },
+      {
+        title: "Classic Tides",
+        episodes: 4,
+      },
+    ],
+  },
+];
