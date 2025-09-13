@@ -1,6 +1,4 @@
 // PodcastPreview.js
-import { genres as allGenres } from "./data.js";
-
 class PodcastPreview extends HTMLElement {
   constructor() {
     super();
